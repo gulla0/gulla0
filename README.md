@@ -8,7 +8,7 @@ Right now I’m focused on three things:
 Structured 15-week deep dive. Daily lessons, weekly exercises, and real mini-projects.  
 → [Go-in-15-weeks](https://github.com/gulla0/Go-in-15-weeks)
 
-### 2. Using AI to vibe-code apps I actually want to take to market
+### 2. Using AI to vibe-code apps until I stumble on a market worthy idea
 - [Cardano-Indexer-Chat](https://github.com/gulla0/Cardano-Indexer-Chat) — natural-language (GPT-powered) queries over Cardano blockchain data  
 - [godot-bot-evolution-plugin](https://github.com/gulla0/godot-bot-evolution-plugin) — production-grade evolutionary AI for Godot 4.3+. Bots that learn, evolve, and feel alive.
 
