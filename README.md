@@ -1,6 +1,6 @@
 # Hey, I'm Harsha (gulla0) 👋
 
-Software builder from Michigan. I ship practical tools and learn deeply while staying grounded in the AI era.
+Software builder located at Michigan. I ship practical tools and learn deeply while staying grounded in the AI era.
 
 Right now I’m focused on three things:
 
