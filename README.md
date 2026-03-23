@@ -4,9 +4,12 @@ Software builder located at Michigan. I ship practical tools and learn deeply wh
 
 Right now I’m focused on three things:
 
-### 1. Mastering backend fundamentals — Go
-Structured 15-week deep dive. Daily lessons, weekly exercises, and real mini-projects.  
+### 1. Mastering backend fundamentals — Go and JAVA
+- Structured 15-week deep dive. Daily lessons, weekly exercises, and real mini-projects.  
 → [Go-in-15-weeks](https://github.com/gulla0/Go-in-15-weeks)
+
+- Completing the Revature Training Program. Daily lessons and labs, weekly assessments, and mini-projects.   
+→ [Sample](https://github.com/gulla0/gulla0-Java-CL-ParentObjectClassMethods)
 
 ### 2. Using AI to vibe-code apps until I stumble on a market worthy idea
 - [Cardano-Indexer-Chat](https://github.com/gulla0/Cardano-Indexer-Chat) — natural-language (GPT-powered) queries over Cardano blockchain data  
