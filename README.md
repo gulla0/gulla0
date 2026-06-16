@@ -8,7 +8,7 @@ Right now I’m focused on three things:
 - Structured 15-week deep dive. Daily lessons, weekly exercises, and real mini-projects.  
 → [Go-in-15-weeks](https://github.com/gulla0/Go-in-15-weeks)
 
-- Completing the Revature Training Program. Daily lessons and labs, weekly assessments, and mini-projects.   
+- Completed the Revature Training Program which included daily lessons and labs, weekly assessments, and mini-projects.   
 → [Sample](https://github.com/gulla0/gulla0-Java-CL-ParentObjectClassMethods)
 
 ### 2. Using AI to vibe-code apps until I stumble on a market worthy idea
